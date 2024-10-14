@@ -2,7 +2,7 @@
 
 **AWS Certified Solutions Architect - Associate** | **AWS Certified DevOps Engineer - Professional** | **Red Hat Certified System Administrator** | **Red Hat Certified Specialist in Ansible Automation**  
 📍 **Location**: Pune, Maharashtra, India | ✉️ **Email**: [menamdeopawar@gmail.com](mailto:menamdeopawar@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/menamdeopawar](https://linkedin.com/in/namdeopawar) | 🌐 **Website**: [namacloudops.in](http://namacloudops.in) | 💻 **GitHub**: [github.com/namdeopawar](https://github.com/namdeopawar)
+🔗 **LinkedIn**: [linkedin.com/in/namdeopawar](https://linkedin.com/in/namdeopawar) | 🌐 **Website**: [namacloudops.in](http://namacloudops.in) | 💻 **GitHub**: [github.com/namdeopawar](https://github.com/namdeopawar)
 
 ---
 

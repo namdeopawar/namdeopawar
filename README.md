@@ -2,7 +2,7 @@
 
 **AWS Certified Solutions Architect - Associate** | **AWS Certified DevOps Engineer - Professional** | **Red Hat Certified System Administrator** | **Red Hat Certified Specialist in Ansible Automation**  
 📍 **Location**: Pune, Maharashtra, India | ✉️ **Email**: [menamdeopawar@gmail.com](mailto:menamdeopawar@gmail.com)  
-🔗 **LinkedIn**: [linkedin.com/in/menamdeopawar](https://linkedin.com/in/menamdeopawar) | 🌐 **Website**: [namacloudops.in](http://namacloudops.in) | 💻 **GitHub**: [github.com/namdeopawar](https://github.com/namdeopawar)
+🔗 **LinkedIn**: [linkedin.com/in/menamdeopawar](https://linkedin.com/in/namdeopawar) | 🌐 **Website**: [namacloudops.in](http://namacloudops.in) | 💻 **GitHub**: [github.com/namdeopawar](https://github.com/namdeopawar)
 
 ---
 
@@ -105,9 +105,13 @@ I am an experienced **AWS DevOps Engineer** with **3+ years of experience** in a
 - Set up **CI/CD pipeline** using Jenkins, Terraform, and AWS CLI for automated deployments.
 - Enhanced application monitoring with **Helm**, **Prometheus**, and **Grafana**, adopting **GitOps** practices with **ArgoCD**.
 
-### 2. **Blue-Green Deployment on AWS with Auto Scaling and Load Balancing**  
-- Implemented **Blue-Green Deployment** strategy using **Auto Scaling Groups (ASG)** and **Elastic Load Balancer (ELB)** to minimize downtime.
-- Automated deployments using **CodeDeploy Agent** and improved resource management with **traffic-switching strategies**.
+### 2. **[Blue-Green Deployment on AWS with Auto Scaling and Load Balancing](https://github.com/namdeopawar/AWS_CD_BG_Stratergy.git)**  
+**Tech Stack**: AWS CodeDeploy, Auto Scaling Groups (ASG), Elastic Load Balancer (ELB)  
+
+- Designed and implemented a **Blue-Green Deployment strategy** on AWS to ensure minimal downtime during deployments.
+- Configured **Auto Scaling Groups (ASG)** and **Elastic Load Balancer (ELB)** to dynamically scale EC2 instances and distribute traffic efficiently.
+- Utilized **AWS CodeDeploy** for automated deployments, enabling seamless traffic switching between production and release environments.
+- Enhanced resource management and application reliability by employing **traffic-switching strategies** during deployments.
 
 ### 3. **Deploying a Spring Boot Application on AWS ECS with CI/CD Pipeline**  
 - Designed and deployed a **Spring Boot Application** with RESTful APIs and database integration.

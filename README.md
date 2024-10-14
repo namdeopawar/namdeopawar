@@ -114,6 +114,20 @@ I am an experienced **AWS DevOps Engineer** with **3+ years of experience** in a
 - Created Dockerfile for containerization, deployed on **Amazon ECS** with optimal task definitions and service configurations.
 - Established a CI/CD pipeline using **AWS CodePipeline** and **CodeBuild**.
 
+### 4. **Linux Account Central Application Setup**  
+**Tech Stack**: Nginx, Java, PostgreSQL  
+
+A comprehensive setup of a secure Java-based web application, running on Linux with Nginx and PostgreSQL, including server hardening techniques.
+
+**Key Highlights**:
+- Nginx reverse proxy configuration.
+- PostgreSQL integration with Java application.
+- Enhanced security headers and access controls.
+
+### 5. **Google SSO with Nginx using Okta and Vouch**  
+This project implements Google SSO using Okta and Vouch, adding an extra security layer for web applications.
+
+
 ---
 
 ## 🏆 Professional Achievements

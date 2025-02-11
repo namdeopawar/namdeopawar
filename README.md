@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Namdeo Pawar** | AWS DevOps Engineer
+# 👋 Hi, I'm **Namdeo Pawar** | Senior DevOps Engineer
 
 **AWS Certified Solutions Architect - Associate** | **AWS Certified DevOps Engineer - Professional** | **Red Hat Certified System Administrator** | **Red Hat Certified Specialist in Ansible Automation**  
 📍 **Location**: Pune, Maharashtra, India | ✉️ **Email**: [menamdeopawar@gmail.com](mailto:menamdeopawar@gmail.com)  
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Professional Summary
 
-I am an experienced **AWS DevOps Engineer** with **3+ years of experience** in automating infrastructure, deploying cloud applications, and implementing **CI/CD pipelines**. My expertise covers **AWS services**, **Terraform**, **Ansible**, and **Kubernetes**, with a strong focus on **cost optimization**, **high availability**, and **infrastructure as code (IaC)**. I’ve consistently delivered on **streamlining operations**, reducing deployment times by 50%, and maintaining **99.99% uptime**.
+I am an experienced **Senior DevOps Engineer** with **3.5+ years of experience** in automating infrastructure, deploying cloud applications, and implementing **CI/CD pipelines**. My expertise covers **AWS services**, **Terraform**, **Ansible**, and **Kubernetes**, with a strong focus on **cost optimization**, **high availability**, and **infrastructure as code (IaC)**. I’ve consistently delivered on **streamlining operations**, reducing deployment times by 50%, and maintaining **99.99% uptime**.
 
 ---
 
@@ -40,8 +40,11 @@ I am an experienced **AWS DevOps Engineer** with **3+ years of experience** in a
 
 ## 💼 Professional Experience
 
+### Ksolves India Limited | Senior DevOps Engineer  
+*February 2025 – Present | Pune, Maharashtra*
+
 ### DemandFarm | Product Solution Engineer  
-*August 2021 – Present | Pune, Maharashtra*
+*August 2021 – January 2025 | Pune, Maharashtra*
 
 - Managed **1,000+ server instances**, automating log management and transferring **10TB+ data to AWS S3** monthly.
 - Upgraded **MySQL 5.7 databases** and **Ubuntu 18 servers**, ensuring enhanced performance and addressing end-of-life concerns.
@@ -141,10 +144,3 @@ This project implements Google SSO using Okta and Vouch, adding an extra securit
 - **SAML Login Implementation**: Implemented **SAML login** using **Microsoft Azure Entra ID**, improving authentication security.
 
 ---
-
-## 🛠 Setup Guide for the Three-Tier Web Application Project
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/namdeopawar/three-tier-app-deployment-eks.git
-cd three-tier-app-deployment-eks
